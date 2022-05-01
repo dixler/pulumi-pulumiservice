@@ -1,4 +1,4 @@
-module github.com/pierskarsenbarg/pulumi-pulumiservice/examples
+module github.com/pulumi/pulumi-pulumiservice/examples
 
 go 1.17
 

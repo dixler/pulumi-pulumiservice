@@ -281,7 +281,7 @@ func splitSingleSlashString(id string) (string, string, error) {
 	// format: organization/webhookName
 	s := strings.Split(id, "/")
 	if len(s) != 2 {
-		return "", "", fmt.Errorf("%q is invalid, must contain a single slash ('/')", id)
+		return "", "", fmt.Errorf("id %q is invalid, must contain a single slash ('/')", id)
 	}
 	return s[0], s[1], nil
 }
