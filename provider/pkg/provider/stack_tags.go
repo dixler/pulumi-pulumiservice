@@ -6,8 +6,8 @@ import (
 	"path"
 
 	pbempty "github.com/golang/protobuf/ptypes/empty"
-	"github.com/pulumi/pulumi-pulumiservice/provider/pkg/internal/pulumiapi"
-	"github.com/pulumi/pulumi-pulumiservice/provider/pkg/internal/serde"
+	"github.com/pulumi/pulumi-pulumiservice/provider/pkg/notinternal/pulumiapi"
+	"github.com/pulumi/pulumi-pulumiservice/provider/pkg/notinternal/serde"
 	"github.com/pulumi/pulumi/sdk/v3/go/common/resource"
 	pulumirpc "github.com/pulumi/pulumi/sdk/v3/proto/go"
 )
