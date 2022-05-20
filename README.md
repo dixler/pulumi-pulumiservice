@@ -4,8 +4,8 @@
 [![NPM version](https://badge.fury.io/js/%40pulumi%2Fpulumiservice.svg)](https://www.npmjs.com/package/@pulumi/pulumiservice)
 [![Python version](https://badge.fury.io/py/pulumi-pulumiservice.svg)](https://pypi.org/project/pulumi-pulumiservice)
 [![NuGet version](https://badge.fury.io/nu/pulumi.pulumiservice.svg)](https://badge.fury.io/nu/pulumi.pulumiservice)
-[![PkgGoDev](https://pkg.go.dev/badge/github.com/pulumi/pulumi-pulumiservice/sdk/go/pulumiservice)](https://pkg.go.dev/github.com/pulumi/pulumi-pulumiservice/sdk/go)
-[![License](https://img.shields.io/npm/l/%40pulumi%2Fpulumiservice.svg)](https://github.com/pulumi/pulumi-pulumiservice/blob/main/LICENSE)
+[![PkgGoDev](https://pkg.go.dev/badge/github.com/dixler/pulumi-pulumiservice/sdk/go/pulumiservice)](https://pkg.go.dev/github.com/dixler/pulumi-pulumiservice/sdk/go)
+[![License](https://img.shields.io/npm/l/%40pulumi%2Fpulumiservice.svg)](https://github.com/dixler/pulumi-pulumiservice/blob/main/LICENSE)
 
 A Pulumi Resource Provider for The Pulumi Service.
 
@@ -46,7 +46,7 @@ To use from Python, install using `pip`:
 
 To use from Go, use `go get` to grab the latest version of the library
 
-    $ go get github.com/pulumi/pulumi-pulumiservice/sdk/go
+    $ go get github.com/dixler/pulumi-pulumiservice/sdk/go
 
 ### .NET
 

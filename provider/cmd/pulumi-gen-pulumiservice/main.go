@@ -22,8 +22,8 @@ import (
 	"os"
 	"path/filepath"
 
+	providerVersion "github.com/dixler/pulumi-pulumiservice/provider/pkg/version"
 	javagen "github.com/pulumi/pulumi-java/pkg/codegen/java"
-	providerVersion "github.com/pulumi/pulumi-pulumiservice/provider/pkg/version"
 	dotnetgen "github.com/pulumi/pulumi/pkg/v3/codegen/dotnet"
 	gogen "github.com/pulumi/pulumi/pkg/v3/codegen/go"
 	nodejsgen "github.com/pulumi/pulumi/pkg/v3/codegen/nodejs"

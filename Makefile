@@ -2,7 +2,7 @@ PROJECT_NAME := Pulumi Service Resource Provider
 
 PACK             := pulumiservice
 PACKDIR          := sdk
-PROJECT          := github.com/pulumi/pulumi-pulumiservice
+PROJECT          := github.com/dixler/pulumi-pulumiservice
 NODE_MODULE_NAME := @pulumi/pulumi-service
 NUGET_PKG_NAME   := Pulumi.PulumiService
 

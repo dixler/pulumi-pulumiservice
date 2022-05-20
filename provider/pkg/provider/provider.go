@@ -27,7 +27,7 @@ import (
 	"google.golang.org/grpc/status"
 	"google.golang.org/protobuf/types/known/emptypb"
 
-	"github.com/pulumi/pulumi-pulumiservice/provider/pkg/notinternal/pulumiapi"
+	"github.com/dixler/pulumi-pulumiservice/provider/pkg/notinternal/pulumiapi"
 
 	pulumirpc "github.com/pulumi/pulumi/sdk/v3/proto/go"
 

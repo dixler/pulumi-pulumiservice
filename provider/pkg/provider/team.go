@@ -5,8 +5,8 @@ import (
 	"errors"
 	"fmt"
 
+	"github.com/dixler/pulumi-pulumiservice/provider/pkg/notinternal/pulumiapi"
 	pbempty "github.com/golang/protobuf/ptypes/empty"
-	"github.com/pulumi/pulumi-pulumiservice/provider/pkg/notinternal/pulumiapi"
 	"github.com/pulumi/pulumi/sdk/v3/go/common/resource"
 	"github.com/pulumi/pulumi/sdk/v3/go/common/resource/plugin"
 	pulumirpc "github.com/pulumi/pulumi/sdk/v3/proto/go"

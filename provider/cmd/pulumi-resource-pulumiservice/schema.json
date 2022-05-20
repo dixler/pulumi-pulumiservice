@@ -3,7 +3,7 @@
   "displayName": "Pulumi Service",
   "description": "A native Pulumi package for creating and managing Pulumi Service constructs",
   "homepage": "https://pulumi.com",
-  "repository": "https://github.com/pulumi/pulumi-pulumiservice",
+  "repository": "https://github.com/dixler/pulumi-pulumiservice",
   "keywords": [
     "pulumi",
     "kind/native",
@@ -246,7 +246,7 @@
     },
     "go": {
       "generateResourceContainerTypes": true,
-      "importBasePath": "github.com/pulumi/pulumi-pulumiservice/sdk/go/pulumiservice"
+      "importBasePath": "github.com/dixler/pulumi-pulumiservice/sdk/go/pulumiservice"
     },
     "nodejs": {
       "packageName": "@pulumi/pulumiservice",

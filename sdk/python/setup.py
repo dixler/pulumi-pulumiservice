@@ -48,7 +48,7 @@ setup(name='pulumi_pulumiservice',
       keywords='pulumi kind/native category/infrastructure',
       url='https://pulumi.com',
       project_urls={
-          'Repository': 'https://github.com/pulumi/pulumi-pulumiservice'
+          'Repository': 'https://github.com/dixler/pulumi-pulumiservice'
       },
       license='Apache-2.0',
       packages=find_packages(),
