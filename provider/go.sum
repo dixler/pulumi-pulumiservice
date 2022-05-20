@@ -593,6 +593,8 @@ github.com/prometheus/procfs v0.0.8/go.mod h1:7Qr8sr6344vo1JqZ6HhLceV9o3AJ1Ff+Gx
 github.com/prometheus/tsdb v0.7.1/go.mod h1:qhTCs0VvXwvX/y3TZrWD7rabWM+ijKTux40TwIPHuXU=
 github.com/pulumi/pulumi-java/pkg v0.1.0 h1:NsbaTKH6edcEfGcsu3RHxEB5zq29+FXV5D79CPTZPBU=
 github.com/pulumi/pulumi-java/pkg v0.1.0/go.mod h1:Dw5klQSJCD6hHaHN4BcCoOW+KjC6NafdBtDsy6sY6uc=
+github.com/pulumi/pulumi-pulumiservice/provider v0.0.0-20220516155950-990405255828 h1:IJkaQ4xMu1J8pxJaBwfJ0OO/BRU7uNr+JC3p+5uxXjI=
+github.com/pulumi/pulumi-pulumiservice/provider v0.0.0-20220516155950-990405255828/go.mod h1:yQrh3j3lbUaDMunNBkSTF+AQsV4M2vCnZWwJrcWeu6Q=
 github.com/pulumi/pulumi/pkg/v3 v3.26.0/go.mod h1:L9E+MXe05AbrSmX1GjX3jIrVNpE2RrauKEjME+BNzi4=
 github.com/pulumi/pulumi/pkg/v3 v3.30.1-0.20220425233152-77eb530a1117 h1:nDRW4/GHUAyXARc19jEQeHG1YDhDPd298Yj1oo6yRhc=
 github.com/pulumi/pulumi/pkg/v3 v3.30.1-0.20220425233152-77eb530a1117/go.mod h1:U1BGP/1QmebZE35OfFAT96zN2lhexAktkGLAbnAv+lI=

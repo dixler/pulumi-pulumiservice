@@ -141,4 +141,7 @@ require (
 	google.golang.org/grpc v1.45.0
 )
 
-require github.com/pulumi/pulumi-java/pkg v0.1.0
+require (
+	github.com/pulumi/pulumi-java/pkg v0.1.0
+	github.com/pulumi/pulumi-pulumiservice/provider v0.0.0-20220516155950-990405255828
+)
