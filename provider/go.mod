@@ -1,4 +1,4 @@
-module github.com/pulumi/pulumi-pulumiservice/provider
+module github.com/dixler/pulumi-pulumiservice/provider
 
 go 1.17
 
